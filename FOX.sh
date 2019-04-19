@@ -134,4 +134,3 @@ git clone https://github.com/thelinuxchoice/locator.git
 cd locator
 bash locator.sh
 fi
-fi
